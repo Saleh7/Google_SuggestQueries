@@ -1,3 +1,2 @@
-# Google_SuggestQueries
-Google SuggestQueries PHP
- 
+# Google SuggestQueries
+Class return 10 Google Search suggestions
